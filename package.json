@@ -1,0 +1,23 @@
+{
+  "name": "test-javascript-env",
+  "version": "0.0.0",
+  "description": "esta es un entorno de prueba para node",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eddyrdev/test-javascript-env.git"
+  },
+  "keywords": [
+    "Node",
+    "ES6"
+  ],
+  "author": "@eddy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eddyrdev/test-javascript-env/issues"
+  },
+  "homepage": "https://github.com/eddyrdev/test-javascript-env#readme"
+}
